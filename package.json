@@ -1,0 +1,19 @@
+{
+  "name": "bcpractice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ganache": "^7.9.2",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^10.7.3",
+    "solc": "^0.4.17",
+    "web3": "^4.13.0"
+  }
+}
